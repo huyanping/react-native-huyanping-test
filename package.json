@@ -1,0 +1,32 @@
+{
+    "name": "react-native-huyanping-test",
+    "title": "react-native 广告联盟SDK",
+    "version": "1.1.4",
+    "description": "给rn封装一些常用的广告平台的 sdk，头条穿山甲",
+    "main": "index.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/huyanping/react-native-huyanping-test",
+        "baseUrl": "https://github.com/huyanping/react-native-huyanping-test"
+    },
+    "keywords": [
+        "react-native"
+    ],
+    "license": "MIT",
+    "licenseFilename": "LICENSE",
+    "readmeFilename": "README.md",
+    "peerDependencies": {
+        "react": "^16.13.1",
+        "react-native": ">=0.63.0 <1.0.x"
+    },
+    "devDependencies": {
+        "react": "^16.13.1",
+        "react-native": "^0.63.0"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    }
+}
